@@ -1,0 +1,6 @@
+Simply use python3 17CS10036_TaskNo.py <Relative Path to dataset directory> <output_file> to run the codes. 
+
+A sample command is python3 17CS10036_1.py dataset output.txt
+(If the dataset directory is present in the same directory as the code and the output will be printed in the output.txt file)
+
+On my Laptop(Intel i7 7th geneation with peak 3.8MHz clock speed) Task2 and Task3 are taking about 30-35 seconds to run and Task1 is taking about 9-10 minutes to run.
